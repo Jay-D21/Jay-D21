@@ -37,8 +37,10 @@ Currently completing my **B.Tech in Artificial Intelligence & Machine Learning**
 
 ---
 
-### 🎤 Community & Leadership
-- **Initiator — Nirmaan Community:** Building an open research and builder collective. Kicked off with a live guest seminar on *"AI Skills Every CSE Student Should Know"* for Computer Science students at **SVKM's Dhule** (Nov 2026).
+### 🎤 Community, Leadership & Legacy
+- **Initiator — Nirmaan Community:** Founded an open learning, research, and builder collective designed to bring curious minds together to collaborate, learn modern workflows, and build practical systems together.
+- **Founder & Lead Systems Builder — [i Labs](https://ilabs4u.dpdns.org) (Dec 2025 – Present):** Started a student-led product and operations studio in Shirpur, Maharashtra (operating remotely Pan-India) to learn by solving real business bottlenecks—structured as a campus-to-industry legacy that succeeding batches will carry forward.
 - **McKinsey & Company Forward Learner (2026)** & **Y Combinator Startup School Participant (2025)**.
 
+  
 📫 **Connect with me:** [Portfolio](https://jd.jaydeore-work.workers.dev) · [i Labs](https://ilabs4u.dpdns.org) · [LinkedIn](https://www.linkedin.com/in/jay-deore-50b4b8342/) · [jaydeore.work@gmail.com](mailto:jaydeore.work@gmail.com)
